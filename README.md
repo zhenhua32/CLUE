@@ -1,3 +1,15 @@
+# 激活当前环境
+
+现在突然觉得 conda 加 venv 用来复刻项目很好用, conda 提供基础 python 环境, venv 用来管理依赖, 绑定在当前项目中.
+
+```bash
+# 创建 venv 环境
+python -m venv venv
+
+# 激活环境
+.\venv\Scripts\activate
+```
+
 # CLUE benchmark 
 datasets, baselines, pre-trained models, corpus and leaderboard
 

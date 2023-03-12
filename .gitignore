@@ -19,3 +19,4 @@ baselines/models_pytorch/classifier_pytorch/CLUEdatasets
 baselines/models_pytorch/classifier_pytorch/*output
 baselines/models/bert/*output
 __pycache__
+venv
